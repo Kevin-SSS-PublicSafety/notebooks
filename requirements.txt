@@ -1,4 +1,3 @@
-unixodbc==2.3.11
 pyodbc==4.0.35
 numpy==1.14.5
 matplotlib==3.0.0
