@@ -3,4 +3,3 @@ numpy==1.14.5
 matplotlib==3.0.0
 ipython-sql==0.4.1
 sqlalchemy==1.4.42
-libodbc==0.2.4
